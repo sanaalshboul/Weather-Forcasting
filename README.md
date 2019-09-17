@@ -41,6 +41,8 @@ Gradient Boosting regressor has achieved the best testing accuracy, which is 75%
 
 
 
+
+
 Requierments: 
 Install the following libraries:
 1- Pandas.
@@ -49,6 +51,10 @@ Install the following libraries:
 4- Sklearn.
 5- Xgboost.
 6- Seaborn.
+
+
+
+
 
 Run temprature_predection.py 
 
